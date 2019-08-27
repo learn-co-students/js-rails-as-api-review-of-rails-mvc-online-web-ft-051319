@@ -1,0 +1,2 @@
+class CreateBird < ApplicationRecord
+end
